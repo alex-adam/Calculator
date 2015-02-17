@@ -1,3 +1,3 @@
 # Calculator
 
-Calculator app programmed completely in C++ (no designers used for GUI).
+Calculator app programmed completely in C++ (backend & GUI).
